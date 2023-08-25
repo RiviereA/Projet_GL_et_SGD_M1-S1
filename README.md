@@ -1,2 +1,13 @@
-# Projet_GL_et_SGD_M1-S1
- Projet réalisé durant les modules de Génie Logiciel et de Système de Gestion de Documents du 1er semestre de Master 1 informatique
+# Projet de Génie Logiciel et de Système de Gestion de Documents (Master 1 - Semestre 1)
+
+Le but de ce projet était la mise en pratique des connaissances vues en cours, incluant d'une part de la gestion de projet par l'utilisation d'un diagramme de Gantt et la création de tests pour notre application, et d'autre part la gestion de "documents" à travers l'utilisation de mongoDB.
+
+Langage utilisé : Java
+
+Architecture utilisée : MVC
+
+Technologies utilisées :
+* Maven
+* JUnit
+* Mockito
+* MongoDB
